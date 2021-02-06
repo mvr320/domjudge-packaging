@@ -1,3 +1,5 @@
+include: '.DOMjudge-release.yml'
+
 image: docker:latest
 
 stages:
